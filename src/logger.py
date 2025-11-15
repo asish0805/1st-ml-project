@@ -2,7 +2,8 @@ import logging
 import os
 import sys
 from datetime import datetime
-from exception import CustomException   # <<< important
+from src.exception import CustomException
+   # <<< important
 
 # ---------------- LOGGING SETUP ---------------- #
 
